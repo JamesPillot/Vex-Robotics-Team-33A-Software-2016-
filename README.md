@@ -1,0 +1,2 @@
+# Vex-Robotics-Team-33A-Software
+Using RobotC, a variant of C for the Vex Robot I was working on, I developed controls for autonomous and tele-operated use of the machine. This project involved working on drive train kinematics, generating trapezoidal motion profiles, state machine development, automation, and adding FeedForward terms to PID Feedback control. This follows what is seen on my LinkedIn: https://www.linkedin.com/in/jamespillot/
